@@ -6,8 +6,8 @@
 
 ### 🗣️ Conversión de texto a audio
 
-- [Speech Sabelo](https://speech.sabelo.xyz)
+- [Speech ](https://speech.sabelo.xyz)
 
 ### 🔲 Generador de códigos QR
 
-- [Generador QR Sabelo](https://generadorqr.sabelo.xyz/)
+- [Generador QR ](https://generadorqr.sabelo.xyz/)
